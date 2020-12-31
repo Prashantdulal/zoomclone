@@ -1,0 +1,29 @@
+{
+  "name": "zoom",
+  "version": "1.0.0",
+  "description": "Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "peer": "^0.6.1",
+    "peerjs": "^1.3.1",
+    "socket.io": "^3.0.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashantdulal/zoomclone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prashantdulal/zoomclone/issues"
+  },
+  "homepage": "https://github.com/Prashantdulal/zoomclone#readme"
+}
